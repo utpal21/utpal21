@@ -8,4 +8,4 @@
 - 📫 How to reach me: utpal.uoda@gmail.com
 
 ### Actively Working 
-![This is an image](https://img.shields.io/badge/php-black?logo=php&style=for-the-badge)
+![PHP](https://img.shields.io/badge/php-black?logo=php&style=for-the-badge) ![PHP](https://img.shields.io/badge/laravel-black?logo=laravel&style=for-the-badge)
