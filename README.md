@@ -16,3 +16,13 @@
 ### Frontend Frameworks
 ![PHP](https://img.shields.io/badge/vuejs-black?logo=vuejs&style=for-the-badge)
 
+### Backend Frameworks
+![PHP](https://img.shields.io/badge/cakephp-black?logo=cakephp&style=for-the-badge)
+
+### Database
+![PHP](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge)
+
+### Index
+![PHP](https://img.shields.io/badge/elasticsearch-black?logo=elasticsearch&style=for-the-badge)
+
+
