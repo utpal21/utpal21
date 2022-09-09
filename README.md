@@ -6,3 +6,6 @@
 - 🤔 I’m looking for help with software development
 - 💬 Ask me about technical architectures
 - 📫 How to reach me: utpal.uoda@gmail.com
+
+### Actively Working 
+![This is an image](https://img.shields.io/badge/%20-Shell%20Script-black?logo=php&style=for-the-badge)
