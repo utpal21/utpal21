@@ -13,3 +13,6 @@
 ### Has Experience
 ![PHP](https://img.shields.io/badge/cakephp-black?logo=cakephp&style=for-the-badge) ![PHP](https://img.shields.io/badge/fuelphp-black?logo=fuelphp&style=for-the-badge)
 
+### Frontend Frameworks
+![PHP](https://img.shields.io/badge/vuejs-black?logo=vuejs&style=for-the-badge)
+
