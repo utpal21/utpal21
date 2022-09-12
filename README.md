@@ -8,7 +8,7 @@
 - 📫 How to reach me: utpal.uoda@gmail.com
 
 ### Actively Working 
-![PHP](https://img.shields.io/badge/php-black?logo=php&style=for-the-badge) ![laravel](https://img.shields.io/badge/laravel-black?logo=laravel&style=for-the-badge)![mysql](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge)
+![PHP](https://img.shields.io/badge/php-black?logo=php&style=for-the-badge) ![laravel](https://img.shields.io/badge/laravel-black?logo=laravel&style=for-the-badge) ![mysql](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge) ![javascript](https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge) 
 
 ### Has Experience
 ![PHP](https://img.shields.io/badge/cakephp-black?logo=cakephp&style=for-the-badge) ![PHP](https://img.shields.io/badge/fuelphp-black?logo=fuelphp&style=for-the-badge)
