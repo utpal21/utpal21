@@ -11,7 +11,7 @@
 ![PHP](https://img.shields.io/badge/php-black?logo=php&style=for-the-badge) ![laravel](https://img.shields.io/badge/laravel-black?logo=laravel&style=for-the-badge) ![mysql](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge) ![javascript](https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge) ![jquery](https://img.shields.io/badge/jquery-black?logo=jquery&style=for-the-badge) ![vue](https://img.shields.io/badge/vue-black?logo=vue&style=for-the-badge) ![react](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge) ![html5](https://img.shields.io/badge/html5-black?logo=html5&style=for-the-badge) ![css3](https://img.shields.io/badge/css3-black?logo=css3&style=for-the-badge) ![btootstrap](https://img.shields.io/badge/bootstrap-black?logo=bootstrap&style=for-the-badge) ![nodejs](https://img.shields.io/badge/nodejs-black?logo=nodejs&style=for-the-badge) 
 
 ### Has Experience
-![PHP](https://img.shields.io/badge/cakephp-black?logo=cakephp&style=for-the-badge) ![PHP](https://img.shields.io/badge/fuelphp-black?logo=fuelphp&style=for-the-badge) ![phalcon](https://img.shields.io/badge/phalcon-black?logo=phalcon&style=for-the-badge) ![wordpress](https://img.shields.io/badge/wordpress-black?logo=wordpress&style=for-the-badge) ![joomla](https://img.shields.io/badge/joomla-black?logo=joomla&style=for-the-badge) 
+![PHP](https://img.shields.io/badge/cakephp-black?logo=cakephp&style=for-the-badge) ![PHP](https://img.shields.io/badge/fuelphp-black?logo=fuelphp&style=for-the-badge) ![phalcon](https://img.shields.io/badge/phalcon-black?logo=phalcon&style=for-the-badge) ![wordpress](https://img.shields.io/badge/wordpress-black?logo=wordpress&style=for-the-badge) ![joomla](https://img.shields.io/badge/joomla-black?logo=joomla&style=for-the-badge) ![pgsql](https://img.shields.io/badge/pgsql-black?logo=pgsql&style=for-the-badge) ![nosql](https://img.shields.io/badge/nosql-black?logo=nosql&style=for-the-badge)
 
 ### Frontend Frameworks
 ![vue](https://img.shields.io/badge/vuejs-black?logo=vuejs&style=for-the-badge) ![react](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge)
@@ -20,7 +20,7 @@
 ![laravel](https://img.shields.io/badge/laravel-black?logo=laravel&style=for-the-badge) ![cakephp](https://img.shields.io/badge/cakephp-black?logo=cakephp&style=for-the-badge) ![PHP](https://img.shields.io/badge/fuelphp-black?logo=fuelphp&style=for-the-badge) ![phalcon](https://img.shields.io/badge/phalcon-black?logo=phalcon&style=for-the-badge)
 
 ### Database
-![mysql](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge)
+![mysql](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge) ![pgsql](https://img.shields.io/badge/pgsql-black?logo=pgsql&style=for-the-badge) ![nosql](https://img.shields.io/badge/nosql-black?logo=nosql&style=for-the-badge)
 
 ### Index
 ![PHP](https://img.shields.io/badge/elasticsearch-black?logo=elasticsearch&style=for-the-badge)
