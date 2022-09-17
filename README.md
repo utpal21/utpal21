@@ -22,7 +22,6 @@
 ### Database
 ![mysql](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge) ![pgsql](https://img.shields.io/badge/pgsql-black?logo=pgsql&style=for-the-badge) ![firebase](https://img.shields.io/badge/firebase-black?logo=firebase&style=for-the-badge)
 
-### Index
-![PHP](https://img.shields.io/badge/elasticsearch-black?logo=elasticsearch&style=for-the-badge)
+
 
 
