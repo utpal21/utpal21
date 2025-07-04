@@ -14,16 +14,18 @@
 ![PHP](https://img.shields.io/badge/php-black?logo=php&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/laravel-black?logo=laravel&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/springboot-black?logo=springboot&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/nodejs-black?logo=node.js&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express-black?logo=express&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/next-black?logo=next.js&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge)
 ![VueJS](https://img.shields.io/badge/vuejs-black?logo=vuejs&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/nodejs-black?logo=node.js&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/express-black?logo=express&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/next-black?logo=next.js&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-black?logo=docker&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/redis-black?logo=redis&style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/mqtt-black?logo=mqtt&style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?logo=rabbitmq&style=for-the-badge)
+![Kafka](https://img.shields.io/badge/kafka-black?logo=apachekafka&style=for-the-badge)
 
 ---
 
@@ -54,6 +56,8 @@
 ![Spring Boot](https://img.shields.io/badge/springboot-black?logo=springboot&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/nodejs-black?logo=node.js&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/express-black?logo=express&style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?logo=rabbitmq&style=for-the-badge)
+![Kafka](https://img.shields.io/badge/kafka-black?logo=apachekafka&style=for-the-badge)
 
 ---
 
