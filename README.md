@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working Cybridge Bangladesh as a Software Developer (Team Leader)
+- 🔭 I’m currently working Adventure Dhaka Limited as a Senior Software Engineer (Tech Lead)
 - 🌱 I’m currently learning Elastic search
 - 👯 I’m looking to collaborate on a talented team
 - 🤔 I’m looking for help with software development
