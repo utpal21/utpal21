@@ -1,3 +1,6 @@
+<img src="https://github.com/utpal21/utpal21/blob/main/utpal-bio.png" alt="Utpal Biswas Banner" style="width:100%;"/>
+
+
 ### 👋 Hi, I'm Utpal Biswas
 
 - 💼 Senior Software Engineer (Team Lead) with 10+ years of experience  
