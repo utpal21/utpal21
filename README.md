@@ -20,7 +20,7 @@
 ![Node.js](https://img.shields.io/badge/nodejs-black?logo=node.js&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/express-black?logo=express&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/next-black?logo=next.js&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/nestjs-e0234e?logo=nestjs&logoColor=white&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/nestjs-black?logo=nestjs&logoColor=red&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge)
