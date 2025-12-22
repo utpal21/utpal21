@@ -69,6 +69,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-black?logo=postgresql&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/firebase-black?logo=firebase&style=for-the-badge)
+![Microsoft SQL Server](https://img.shields.io/badge/mssql-black?logo=microsoftsqlserver&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/mongodb-black?logo=mongodb&style=for-the-badge)
 
 ---
 
