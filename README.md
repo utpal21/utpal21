@@ -1,4 +1,4 @@
-<img src="https://github.com/utpal21/utpal21/blob/main/utpal-bio.png" alt="Utpal Biswas Banner" style="width:100%;"/>
+<img src="https://github.com/utpal21/utpal21/blob/main/Utpal-Biswas-Bio.png" alt="Utpal Biswas Banner" style="width:100%;"/>
 
 # Utpal Biswas
 ### Senior Software Engineer · Technical Lead · Backend & Systems Engineer
