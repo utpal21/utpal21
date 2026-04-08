@@ -28,9 +28,10 @@ That’s where I focus.
 
 - **Distributed Systems & Microservices**
 - **Event-Driven Architectures (Kafka, RabbitMQ, MQTT)**
-- **High-Reliability APIs (REST, SOAP, external integrations)**
+- **High-Reliability APIs (REST, SOAP, third-party integrations)**
 - **AI-Integrated Backends (RAG, LLM systems)**
 - **Real-Time Systems (IoT, streaming pipelines)**
+- **Developer Automation & MCP-based tooling**
 
 ---
 
@@ -41,7 +42,7 @@ Designed a real-time booking system integrating **NDC, Navitaire, and Amadeus**.
 
 - Solved high-concurrency booking failures  
 - Implemented **idempotent distributed transactions**  
-- Redesigned API communication to reduce timeouts  
+- Reduced timeout issues via API redesign  
 
 ---
 
@@ -49,42 +50,64 @@ Designed a real-time booking system integrating **NDC, Navitaire, and Amadeus**.
 Built a real-time telemetry system processing data from hundreds of devices.
 
 - Event-driven architecture with **low-latency pipelines**  
-- MQTT-based ingestion + streaming processing  
-- Designed system for **future AI-based analytics**  
+- MQTT ingestion + streaming processing  
+- AI-ready data pipeline  
 
 ---
 
 ### 🤖 AI-Powered EdTech Platform
 Currently leading backend development for an AI-driven platform.
 
-- Built intelligent matching system (teacher ↔ student)  
+- Intelligent matching system (teacher ↔ student)  
 - Integrated **LLM-based workflows**  
-- Introduced AI-assisted engineering practices  
+- AI-assisted development lifecycle  
 
 ---
 
 ## 🧩 Core Expertise
 
-**Architecture**
+### 🏗️ Architecture
 - Microservices, Domain-Driven Design, Clean Architecture  
 - Event-driven systems & distributed workflows  
-- Scalability, resilience, and fault tolerance  
+- Scalability, resilience, fault tolerance  
 
-**Backend**
-- PHP (Laravel), Node.js (NestJS, Express), Python (FastAPI)  
-- API design, integrations, system optimization  
+---
 
-**Data & Messaging**
+### 💻 Backend Engineering
+- **PHP (Laravel)**  
+- **Node.js (NestJS, Express)**  
+- **Python (FastAPI)**  
+
+- API design, system optimization, third-party integrations  
+
+---
+
+### 🗄️ Data & Messaging
 - MySQL, PostgreSQL, MongoDB, Redis  
 - Kafka, RabbitMQ, MQTT  
 
-**AI & Search**
+---
+
+### 🤖 AI & Search
 - Retrieval-Augmented Generation (RAG)  
 - Elasticsearch (vector search)  
-- LLM integration & context handling  
+- LLM integration (context handling, streaming, fallback)  
 
-**DevOps**
-- Docker, CI/CD, AWS (ECS, S3)  
+---
+
+### ☁️ Cloud & Infrastructure
+- Docker, Docker Compose  
+- AWS (ECS, S3, Lambda, EC2)  
+- **Cloudflare (edge, CDN, security)**  
+- **DigitalOcean (droplets, managed services)**  
+- CI/CD (GitHub Actions)  
+
+---
+
+### ⚡ Emerging Focus
+- MCP (Model Context Protocol) systems & automation  
+- AI-native backend architectures  
+- Scalable developer tooling  
 
 ---
 
@@ -92,24 +115,24 @@ Currently leading backend development for an AI-driven platform.
 
 - Designing **AI-native backend systems**
 - Building **event-driven microservices at scale**
-- Exploring **RAG + LLM architectures in production**
-- Improving **system reliability & observability**
+- Developing **MCP-powered automation tools**
+- Improving **system observability & reliability**
 
 ---
 
 ## 📂 Featured Repositories
 
-- 🔹 Microservices System → Scalable, event-driven architecture  
-- 🔹 Airline Booking Design → Distributed system design & trade-offs  
-- 🔹 RAG Backend → AI-powered knowledge retrieval system  
-- 🔹 IoT Platform → Real-time streaming architecture  
+- 🔹 Microservices System → Scalable event-driven architecture  
+- 🔹 Airline Booking Design → Distributed system trade-offs  
+- 🔹 RAG Backend → AI-powered knowledge retrieval  
+- 🔹 IoT Platform → Real-time streaming system  
 
 ---
 
 ## 📈 Beyond Code
 
 - Led engineering teams (7–10 engineers)  
-- Delivered systems end-to-end (design → production)  
+- Delivered full systems (design → production → scaling)  
 - Worked with international teams (including Japanese SaaS companies)  
 
 ---
@@ -118,7 +141,7 @@ Currently leading backend development for an AI-driven platform.
 
 - Senior Backend / Tech Lead roles (Global / Remote)  
 - System design discussions  
-- Building scalable & AI-powered platforms  
+- AI + Backend system collaborations  
 
 ---
 
@@ -136,4 +159,4 @@ Good engineers write code.
 
 Great engineers design systems.
 
-But the best engineers design systems that **don’t break in production**.
+The best engineers design systems that **don’t break in production**.
