@@ -1,78 +1,139 @@
 <img src="https://github.com/utpal21/utpal21/blob/main/utpal-bio.png" alt="Utpal Biswas Banner" style="width:100%;"/>
 
+# Utpal Biswas
+### Senior Software Engineer · Technical Lead · Backend & Systems Engineer
 
-### 👋 Hi, I'm Utpal Biswas
-
-- 💼 Senior Software Engineer (Team Lead) with 10+ years of experience  
-- 🔭 Currently working at Adventure Dhaka Ltd on an airline ticketing platform (Skyticket)  
-- ⚙️ Skilled in system design, microservices, and API integration (Navitaire, NDC, Amadeus)  
-- 🌱 Currently learning: Elasticsearch, advanced Docker, AWS architecture  
-- 👥 Looking to collaborate with product-focused or API-driven teams  
-- 💬 Ask me about backend architecture, team leadership, or scaling web apps  
-- 📫 Reach me at: utpal.uoda@gmail.com
+I design and build **production-grade backend systems** that handle real-world complexity —  
+from airline booking platforms to real-time IoT systems and AI-powered applications.
 
 ---
 
-### 🚀 Actively Working With
-![PHP](https://img.shields.io/badge/php-black?logo=php&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/laravel-black?logo=laravel&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/springboot-black?logo=springboot&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/nodejs-black?logo=node.js&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/express-black?logo=express&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/next-black?logo=next.js&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/nestjs-black?logo=nestjs&logoColor=red&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge)
-![React](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge)
-![VueJS](https://img.shields.io/badge/vuejs-black?logo=vuejs&style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-black?logo=docker&style=for-the-badge)
-![Redis](https://img.shields.io/badge/redis-black?logo=redis&style=for-the-badge)
-![MQTT](https://img.shields.io/badge/mqtt-black?logo=mqtt&style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?logo=rabbitmq&style=for-the-badge)
-![Kafka](https://img.shields.io/badge/kafka-black?logo=apachekafka&style=for-the-badge)
+## 🧠 Engineering Philosophy
+
+I don’t optimize for “just working”.
+
+I optimize for:
+- Systems that **scale under pressure**
+- Architectures that **fail gracefully**
+- Codebases that **teams can evolve safely**
+
+Most production issues are not caused by code —  
+they are caused by **poor design decisions**.
+
+That’s where I focus.
 
 ---
 
-### 🛠️ Past Tech Experience
-![CakePHP](https://img.shields.io/badge/cakephp-black?logo=cakephp&style=for-the-badge)
-![CodeIgniter](https://img.shields.io/badge/codeigniter-black?logo=codeigniter&style=for-the-badge)
-![FuelPHP](https://img.shields.io/badge/fuelphp-black?logo=fuelphp&style=for-the-badge)
-![Phalcon](https://img.shields.io/badge/phalcon-black?logo=phalcon&style=for-the-badge)
-![WordPress](https://img.shields.io/badge/wordpress-black?logo=wordpress&style=for-the-badge)
-![Joomla](https://img.shields.io/badge/joomla-black?logo=joomla&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/postgresql-black?logo=postgresql&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/firebase-black?logo=firebase&style=for-the-badge)
+## ⚙️ What I Work On
+
+- **Distributed Systems & Microservices**
+- **Event-Driven Architectures (Kafka, RabbitMQ, MQTT)**
+- **High-Reliability APIs (REST, SOAP, external integrations)**
+- **AI-Integrated Backends (RAG, LLM systems)**
+- **Real-Time Systems (IoT, streaming pipelines)**
 
 ---
 
-### 💻 Frontend Tech
-![React](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge)
-![VueJS](https://img.shields.io/badge/vuejs-black?logo=vuejs&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/next-black?logo=next.js&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/bootstrap-black?logo=bootstrap&style=for-the-badge)
-![LESS](https://img.shields.io/badge/less-black?logo=less&style=for-the-badge)
-![SASS](https://img.shields.io/badge/sass-black?logo=sass&style=for-the-badge)
+## 🏗️ Selected Work
+
+### ✈️ Airline Booking Platform (Multi-GDS)
+Designed a real-time booking system integrating **NDC, Navitaire, and Amadeus**.
+
+- Solved high-concurrency booking failures  
+- Implemented **idempotent distributed transactions**  
+- Redesigned API communication to reduce timeouts  
 
 ---
 
-### ⚙️ Backend Tech
-![Laravel](https://img.shields.io/badge/laravel-black?logo=laravel&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/springboot-black?logo=springboot&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/nodejs-black?logo=node.js&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/express-black?logo=express&style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?logo=rabbitmq&style=for-the-badge)
-![Kafka](https://img.shields.io/badge/kafka-black?logo=apachekafka&style=for-the-badge)
+### 🏭 Smart Factory IoT Platform
+Built a real-time telemetry system processing data from hundreds of devices.
+
+- Event-driven architecture with **low-latency pipelines**  
+- MQTT-based ingestion + streaming processing  
+- Designed system for **future AI-based analytics**  
 
 ---
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/postgresql-black?logo=postgresql&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/firebase-black?logo=firebase&style=for-the-badge)
-![Microsoft SQL Server](https://img.shields.io/badge/mssql-black?logo=microsoftsqlserver&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-black?logo=mongodb&style=for-the-badge)
+### 🤖 AI-Powered EdTech Platform
+Currently leading backend development for an AI-driven platform.
+
+- Built intelligent matching system (teacher ↔ student)  
+- Integrated **LLM-based workflows**  
+- Introduced AI-assisted engineering practices  
 
 ---
 
-### 📘 Fun Fact
-I’ve integrated real-time airline booking systems and built IoT-driven factory automation platforms — and still enjoy solving code bugs as much as solving business problems.
+## 🧩 Core Expertise
+
+**Architecture**
+- Microservices, Domain-Driven Design, Clean Architecture  
+- Event-driven systems & distributed workflows  
+- Scalability, resilience, and fault tolerance  
+
+**Backend**
+- PHP (Laravel), Node.js (NestJS, Express), Python (FastAPI)  
+- API design, integrations, system optimization  
+
+**Data & Messaging**
+- MySQL, PostgreSQL, MongoDB, Redis  
+- Kafka, RabbitMQ, MQTT  
+
+**AI & Search**
+- Retrieval-Augmented Generation (RAG)  
+- Elasticsearch (vector search)  
+- LLM integration & context handling  
+
+**DevOps**
+- Docker, CI/CD, AWS (ECS, S3)  
+
+---
+
+## 🔍 Current Focus
+
+- Designing **AI-native backend systems**
+- Building **event-driven microservices at scale**
+- Exploring **RAG + LLM architectures in production**
+- Improving **system reliability & observability**
+
+---
+
+## 📂 Featured Repositories
+
+- 🔹 Microservices System → Scalable, event-driven architecture  
+- 🔹 Airline Booking Design → Distributed system design & trade-offs  
+- 🔹 RAG Backend → AI-powered knowledge retrieval system  
+- 🔹 IoT Platform → Real-time streaming architecture  
+
+---
+
+## 📈 Beyond Code
+
+- Led engineering teams (7–10 engineers)  
+- Delivered systems end-to-end (design → production)  
+- Worked with international teams (including Japanese SaaS companies)  
+
+---
+
+## 🤝 Open To
+
+- Senior Backend / Tech Lead roles (Global / Remote)  
+- System design discussions  
+- Building scalable & AI-powered platforms  
+
+---
+
+## 📫 Contact
+
+- Email: utpal.uoda@gmail.com  
+- GitHub: https://github.com/utpal21  
+- LinkedIn: https://linkedin.com/in/utpal-biswas  
+
+---
+
+## ⚡ Closing Thought
+
+Good engineers write code.
+
+Great engineers design systems.
+
+But the best engineers design systems that **don’t break in production**.
